@@ -8,3 +8,5 @@
 
 [Connection: keep-alive](https://www.jianshu.com/p/870dcf165ad1)
 [AF2/3常驻线程](https://juejin.im/post/5d1efe16f265da1baa1e944d)
+
+[源码解析](https://www.jianshu.com/p/488c1f46cedd)
